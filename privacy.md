@@ -28,7 +28,7 @@ Who’s That? ("the App", "we", "our", or "us") respects your privacy. This Priv
 
 ## Changes
 We may update this Privacy Policy from time to time. Updates will be posted at:
-[https://yourgithubusername.github.io/whos-that-legal/privacy](https://yourgithubusername.github.io/whos-that-legal/privacy)
+[https://yourgithubusername.github.io/whos-that-legal/privacy](https://MaxSlipchenko.github.io/whos-that-legal/privacy)
 
 ## Contact
 For questions, contact us at:
